@@ -10,6 +10,7 @@ java {
         languageVersion = JavaLanguageVersion.of(25)
     }
 }
+
 javafx {
     version = "21.0.12"
     modules = listOf("javafx.controls")
